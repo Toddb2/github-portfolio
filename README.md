@@ -26,19 +26,19 @@ I am a University Physics Student with a passion for software developement, I ha
 
 - **Description**: This project simulates the Ising model, a mathematical model of ferromagnetism in statistical mechanics. It uses the Metropolis algorithm to simulate the behavior of spins on a lattice at different temperatures.
 - **Technologies Used**: Python, NumPy, Matplotlib
-- **Files**: [Isingmodel.py](academic/isingmodel/Isingmodel.py)
+- **Files**: [Isingmodel.py](academic/isingmodel.py)
 
 ### Lennard-Jones Potential Simulation
 
 - **Description**: This project simulates particles in a 2D box interacting via the Lennard-Jones potential. It includes a machine learning model to predict Lennard-Jones parameters based on particle positions and velocities.
 - **Technologies Used**: Python, NumPy, Scikit-learn, PyTorch
-- **Files**: [lennardJonesMdl.py](academic/lennardjonesmdl/lennardJonesMdl.py)
+- **Files**: [lennardJonesMdl.py](academic/lennardJonesMdl.py)
 
 ### Resolution and Magnification Estimation
 
 - **Description**: This project processes an image captured using a Raspberry Pi and Pi cam in a 3D printed housing to act as a microscope, to calculate the resolution and magnification based on the intensity profile of a resolution target. It uses Gaussian fitting to estimate the Full Width at Half Maximum (FWHM) of the intensity profile's derivative.
 - **Technologies Used**: Python, NumPy, Matplotlib, Scipy, Scikit-image
-- **Files**: [resolution.py](academic/resolution/resolution.py)
+- **Files**: [resolution.py](academic/resolution.py)
 
 ## Contact
 
