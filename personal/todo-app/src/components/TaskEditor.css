@@ -1,0 +1,9 @@
+.task-editor {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.task-editor button {
+  align-self: flex-end;
+}
