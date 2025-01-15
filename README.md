@@ -18,7 +18,7 @@ I am a University Physics Student with a passion for software developement, I ha
 
 - **Description**: A JavaScript-based chess game with a simple user interface. Players can move pieces and the game keeps track of turns.
 - **Technologies Used**: HTML, CSS, JavaScript, jQuery
-- **Files**: [Chess Game Folder](personal/chess app (HTML,CSS,JS))
+- **Files**: [Chess Game Folder](personal/chess-app)
 
 ## Academic Projects
 
