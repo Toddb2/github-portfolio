@@ -12,13 +12,13 @@ I am a University Physics Student with a passion for software developement, I ha
 
 - **Description**: A simple and intuitive todo list application with features like adding, editing, deleting tasks, setting priorities, due dates, categories, and dark mode.
 - **Technologies Used**: React, CSS
-- **Files**: [Todo List App Folder](personal/todo-list)
+- **Files**: [Todo List App Folder](personal/todo-app)
 
 ### Chess Game
 
 - **Description**: A JavaScript-based chess game with a simple user interface. Players can move pieces and the game keeps track of turns.
 - **Technologies Used**: HTML, CSS, JavaScript, jQuery
-- **Files**: [Chess Game Folder](personal/chess-game)
+- **Files**: [Chess Game Folder](personal/chess app (HTML,CSS,JS))
 
 ## Academic Projects
 
