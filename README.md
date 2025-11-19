@@ -63,4 +63,4 @@ A foundational project demonstrating proficiency in statistical mechanics simula
 | :--- | :--- |
 | **Email** | todd.blacklaw@gmail.com |
 | **LinkedIn** | [Connect with me on LinkedIn](https://www.linkedin.com/in/todd-blacklaw/) |
-| **Full CV** | See my CV for Professional Experience and full Education details. |
+
