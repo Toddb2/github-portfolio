@@ -1,47 +1,66 @@
-# Todd Blacklaw's Portfolio
+# ⚛️ Todd Blacklaw's Applied Physics & Systems Portfolio
 
-Welcome to my portfolio! This repository contains a collection of my personal and academic projects. Feel free to explore and reach out if you have any questions.
+A collection of personal and academic projects demonstrating expertise in computational physics, scientific programming, and hardware integration.
 
-## About Me
+## 🎓 About Me
 
-I am a University Physics Student with a passion for software developement, I have a strong drive to explore differnt projects to expand my skillset and knowledge and I enjoy being able to use my knowledge of Physics in some of my projects. 
+I am a **Penultimate Year MPhys Physics Student** (Expected 2027) with a deep focus on translating complex physical theories into functional computational models and engineered systems. My primary interest lies in **Quantum Communications, Scientific Computing,** and **Systems Design**.
 
-## Projects
+I am actively seeking a **Summer 2026 Internship** in a challenging R\&D or technical environment (e.g., CERN, Leonardo).
 
-## Todo List App
+## 🌟 FEATURED PROJECTS (Quantum Communications & Computational Physics)
 
-- **Description**: A simple and intuitive todo list application with features like adding, editing, deleting tasks, setting priorities, due dates, categories, and dark mode.
-- **Technologies Used**: React, CSS
-- **Files**: [Todo List App Folder](personal/todo-app)
+### 1. Quantum Key Distribution (QKD) Link with Atmospheric Modelling (4th Year MPhys Project)
 
-### Chess Game
+The culmination of my 4th year, integrating complex hardware control with advanced computational modelling.
 
-- **Description**: A JavaScript-based chess game with a simple user interface. Players can move pieces and the game keeps track of turns.
-- **Technologies Used**: HTML, CSS, JavaScript, jQuery
-- **Files**: [Chess Game Folder](personal/chess-app)
+* **Description:** Establishment of a scalable quantum networking testbed using **Free-Space Optical (FSO)** communicators, with rigorous numerical simulation of atmospheric turbulence effects using radiative transfer code.
+* **Key Skills Demonstrated:** Systems Integration, IPC Networking (Java/Python), Scientific Modelling, Linux/Git Workflow, FSO/QKD principles.
+* **Technologies Used:** Python, Java, **libRadtran**, IRNAS Koruza FSO Communicators.
 
-## Academic Projects
+### 2. Lennard-Jones Potential Simulation with Machine Learning Integration
 
-### Ising Model Simulation
+Advanced simulation and predictive modeling applied to molecular dynamics.
 
-- **Description**: This project simulates the Ising model, a mathematical model of ferromagnetism in statistical mechanics. It uses the Metropolis algorithm to simulate the behavior of spins on a lattice at different temperatures.
-- **Technologies Used**: Python, NumPy, Matplotlib
-- **Files**: [Isingmodel.py](academic/isingmodel.py)
+* **Description:** Simulates particles interacting via the Lennard-Jones potential in 2D. Includes a machine learning model to predict potential parameters based on the system's kinetic data.
+* **Key Skills Demonstrated:** Advanced Numerical Methods, Scientific Data Processing, Machine Learning for Physics.
+* **Technologies Used:** Python, NumPy, **PyTorch**, Scikit-learn.
+* **Files**: [lennardJonesMdl.py](academic/lennardJonesMdl.py)
 
-### Lennard-Jones Potential Simulation
+### 3. Ising Model Simulation & Critical Phenomena Analysis
 
-- **Description**: This project simulates particles in a 2D box interacting via the Lennard-Jones potential. It includes a machine learning model to predict Lennard-Jones parameters based on particle positions and velocities.
-- **Technologies Used**: Python, NumPy, Scikit-learn, PyTorch
-- **Files**: [lennardJonesMdl.py](academic/lennardJonesMdl.py)
+A foundational project demonstrating proficiency in statistical mechanics simulation.
 
-### Resolution and Magnification Estimation
+* **Description:** Simulates the Ising model using the Metropolis algorithm to investigate ferromagnetic behaviour and critical temperatures on a lattice.
+* **Key Skills Demonstrated:** Statistical Physics, Monte Carlo Methods, Data Visualization.
+* **Technologies Used:** Python, NumPy, Matplotlib
+* **Files**: [Isingmodel.py](academic/isingmodel.py)
 
-- **Description**: This project processes an image captured using a Raspberry Pi and Pi cam in a 3D printed housing to act as a microscope, to calculate the resolution and magnification based on the intensity profile of a resolution target. It uses Gaussian fitting to estimate the Full Width at Half Maximum (FWHM) of the intensity profile's derivative.
-- **Technologies Used**: Python, NumPy, Matplotlib, Scipy, Scikit-image
-- **Files**: [resolution.py](academic/resolution.py)
+---
 
-## Contact
+## 🔬 ACADEMIC & INSTRUMENTATION PROJECTS
 
-You can reach me at todd.blacklaw@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/todd-blacklaw/).
+### Resolution and Magnification Estimation for Custom Microscopy
 
-Thank you for visiting my portfolio!
+* **Description:** Image processing workflow designed to calculate the resolution and magnification of a custom, 3D-printed microscope (Raspberry Pi/Pi cam setup) based on Gaussian fitting of a resolution target's intensity profile derivative.
+* **Technologies Used:** Python, NumPy, Matplotlib, Scipy, Scikit-image
+* **Files**: [resolution.py](academic/resolution.py)
+
+---
+
+## 💻 DEVELOPMENT WORK (Historical Examples)
+
+*NOTE: These projects showcase foundational programming skills and front-end development, representing my earlier work in different languages.*
+
+* **Todo List App (React, CSS):** Simple, intuitive front-end application demonstrating state management and UI/UX design principles.
+* **Chess Game (HTML, CSS, JavaScript, jQuery):** Basic logic implementation and front-end scripting for a classic game.
+
+---
+
+## 📧 Contact & Links
+
+| Platform | Link |
+| :--- | :--- |
+| **Email** | todd.blacklaw@gmail.com |
+| **LinkedIn** | [Connect with me on LinkedIn](https://www.linkedin.com/in/todd-blacklaw/) |
+| **Full CV** | See my CV for Professional Experience and full Education details. |
