@@ -6,7 +6,7 @@ A collection of personal and academic projects demonstrating expertise in comput
 
 I am a **Penultimate Year MPhys Physics Student** (Expected 2027) with a deep focus on translating complex physical theories into functional computational models and engineered systems. My primary interest lies in **Quantum Communications, Scientific Computing,** and **Systems Design**.
 
-I am actively seeking a **Summer 2026 Internship** in a challenging R\&D or technical environment (e.g., CERN, Leonardo).
+I am actively seeking a **Summer 2026 Internship** in a challenging R\&D or technical environment.
 
 ## 🌟 FEATURED PROJECTS (Quantum Communications & Computational Physics)
 
