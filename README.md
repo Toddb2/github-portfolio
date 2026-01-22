@@ -1,66 +1,84 @@
-# ⚛️ Todd Blacklaw's Applied Physics & Systems Portfolio
+# Todd Blacklaw – Applied Physics & Systems Portfolio
 
-A collection of personal and academic projects demonstrating expertise in computational physics, scientific programming, and hardware integration.
-
-## 🎓 About Me
-
-I am a **Penultimate Year MPhys Physics Student** (Expected 2027) with a deep focus on translating complex physical theories into functional computational models and engineered systems. My primary interest lies in **Quantum Communications, Scientific Computing,** and **Systems Design**.
-
-I am actively seeking a **Summer 2026 Internship** in a challenging R\&D or technical environment.
-
-## 🌟 FEATURED PROJECTS (Quantum Communications & Computational Physics)
-
-### 1. Quantum Key Distribution (QKD) Link with Atmospheric Modelling (4th Year MPhys Project)
-
-The culmination of my 4th year, integrating complex hardware control with advanced computational modelling.
-
-* **Description:** Establishment of a scalable quantum networking testbed using **Free-Space Optical (FSO)** communicators, with rigorous numerical simulation of atmospheric turbulence effects using radiative transfer code.
-* **Key Skills Demonstrated:** Systems Integration, IPC Networking (Java/Python), Scientific Modelling, Linux/Git Workflow, FSO/QKD principles.
-* **Technologies Used:** Python, Java, **libRadtran**, IRNAS Koruza FSO Communicators.
-
-### 2. Lennard-Jones Potential Simulation with Machine Learning Integration
-
-Advanced simulation and predictive modeling applied to molecular dynamics.
-
-* **Description:** Simulates particles interacting via the Lennard-Jones potential in 2D. Includes a machine learning model to predict potential parameters based on the system's kinetic data.
-* **Key Skills Demonstrated:** Advanced Numerical Methods, Scientific Data Processing, Machine Learning for Physics.
-* **Technologies Used:** Python, NumPy, **PyTorch**, Scikit-learn.
-* **Files**: [lennardJonesMdl.py](academic/lennardJonesMdl.py)
-
-### 3. Ising Model Simulation & Critical Phenomena Analysis
-
-A foundational project demonstrating proficiency in statistical mechanics simulation.
-
-* **Description:** Simulates the Ising model using the Metropolis algorithm to investigate ferromagnetic behaviour and critical temperatures on a lattice.
-* **Key Skills Demonstrated:** Statistical Physics, Monte Carlo Methods, Data Visualization.
-* **Technologies Used:** Python, NumPy, Matplotlib
-* **Files**: [Isingmodel.py](academic/isingmodel.py)
+A curated collection of academic and personal projects demonstrating applied expertise in **computational physics**, **scientific programming**, and **hardware-integrated system design**.
 
 ---
 
-## 🔬 ACADEMIC & INSTRUMENTATION PROJECTS
+## About Me
 
-### Resolution and Magnification Estimation for Custom Microscopy
+I’m a penultimate-year **MPhys Physics student at Heriot-Watt University** (graduating 2027), with a technical focus on **Quantum Communications**, **Numerical Modelling**, and **Systems Engineering**.
 
-* **Description:** Image processing workflow designed to calculate the resolution and magnification of a custom, 3D-printed microscope (Raspberry Pi/Pi cam setup) based on Gaussian fitting of a resolution target's intensity profile derivative.
-* **Technologies Used:** Python, NumPy, Matplotlib, Scipy, Scikit-image
-* **Files**: [resolution.py](academic/resolution.py)
+My work blends experimental physics with high-level programming to build reliable, scalable, and insight-driven scientific tools. I’m currently seeking a **Summer 2026 internship** in an R&D-focused environment (physics, software, or interdisciplinary systems).
 
 ---
 
-## 💻 DEVELOPMENT WORK (Historical Examples)
+## Featured Projects – Quantum Communications & Computational Physics
 
-*NOTE: These projects showcase foundational programming skills and front-end development, representing my earlier work in different languages.*
+### Quantum Key Distribution (QKD) with Atmospheric Modelling  
+**4th Year MPhys Research Project**
 
-* **Todo List App (React, CSS):** Simple, intuitive front-end application demonstrating state management and UI/UX design principles.
-* **Chess Game (HTML, CSS, JavaScript, jQuery):** Basic logic implementation and front-end scripting for a classic game.
+An integrated research project combining atmospheric physics simulation with quantum hardware deployment.
+
+- **Objective:** Develop a scalable QKD testbed using **Free-Space Optical (FSO)** communication and simulate signal degradation due to atmospheric turbulence using radiative transfer models.
+- **Key Skills:** Systems Integration, Inter-Process Communication (Java/Python), Numerical Simulation, Scientific Workflow Management.
+- **Tools/Tech:** Python, Java, `libRadtran`, Linux, Git, IRNAS Koruza FSO hardware.
 
 ---
 
-## 📧 Contact & Links
+### Lennard-Jones Potential Simulation with ML Parameter Estimation
 
-| Platform | Link |
-| :--- | :--- |
-| **Email** | todd.blacklaw@gmail.com |
-| **LinkedIn** | [Connect with me on LinkedIn](https://www.linkedin.com/in/todd-blacklaw/) |
+A simulation and predictive analytics project bridging classical molecular dynamics with modern ML techniques.
+
+- **Objective:** Model 2D particle interactions via the Lennard-Jones potential. Integrate a machine learning pipeline to estimate potential parameters from dynamic data.
+- **Key Skills:** Numerical Modelling, Scientific Data Handling, Machine Learning for Physical Systems.
+- **Tools/Tech:** Python, NumPy, PyTorch, scikit-learn  
+- **Code:** [`lennardJonesMdl.py`](academic/lennardJonesMdl.py)
+
+---
+
+### Ising Model Simulation – Critical Temperature Detection
+
+A foundational physics simulation exploring phase transitions using statistical mechanics principles.
+
+- **Objective:** Use the Metropolis algorithm to simulate the 2D Ising model, examining temperature-dependent magnetic ordering.
+- **Key Skills:** Monte Carlo Methods, Data Visualization, Thermodynamic Analysis.
+- **Tools/Tech:** Python, NumPy, Matplotlib  
+- **Code:** [`isingmodel.py`](academic/isingmodel.py)
+
+---
+
+## Experimental Systems & Instrumentation
+
+### Resolution & Magnification Estimation for Custom Microscopy
+
+Applied image processing techniques to evaluate optical system performance.
+
+- **Objective:** Calculate the effective resolution and magnification of a custom-built microscope using Gaussian fitting and numerical differentiation of test target intensity profiles.
+- **Tools/Tech:** Python, NumPy, Matplotlib, SciPy, scikit-image  
+- **Code:** [`resolution.py`](academic/resolution.py)
+
+---
+
+## Early Development Work
+
+Foundational projects from earlier in my learning journey—demonstrating proficiency in front-end and basic algorithmic design.
+
+- **Todo List App**  
+  *React, CSS* — A simple state-managed front-end application with custom UI styling.
+
+- **Chess Game**  
+  *HTML, CSS, JavaScript (jQuery)* — An interactive board game implementing core rules and move logic.
+
+---
+
+## Contact & Professional Links
+
+| Platform     | Link |
+|--------------|------|
+| **Email**    | [todd.blacklaw@gmail.com](mailto:todd.blacklaw@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/todd-blacklaw](https://www.linkedin.com/in/todd-blacklaw/) |
+
+---
+
+*Thank you for visiting! I’m always open to collaborations or internship opportunities related to quantum systems, scientific software, and applied physics.*
 
